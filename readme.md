@@ -166,7 +166,8 @@ Similarly to Tobira, Minna no Nihongo is intended for intermediate-level student
   - [Japanese Core 2000/6000 A](https://docs.google.com/document/d/1zyyuiWkiz2IF2CCROeJebl8mgRdHBqNfS5D7MFjDTzE/edit) | [B](https://djtguide.neocities.org/anki.html) - :card_index: Popular Anki Japanese Deck Core 2k/6k
   - [Japanese 10K WK Breakdown](https://mega.nz/#!AdRjlZoL!FZoz3f3jq4oFUvwa59-AN3yKuQn-mFuIgNDftHtJ8n0) - :card_index:Core 10K vocabularies, broken down by WaniKani kanji.
 - [Memrise](https://www.memrise.com/) - Popular online/app flashcard platform. :iphone:
-- [jpdb](https://jpdb.io/)) - jpdb is a powerful Japanese dictionary and all-in-one learning system for kanji and vocabulary.
+- [jpdb](https://jpdb.io/) - jpdb is a powerful Japanese dictionary and all-in-one learning system for kanji and vocabulary.
+- [jpdbdatamining](https://github.com/0xspringtime/jpdbdatamining) - Accessible data from jpdb allowing easy processing of Japanese language media content.
 - [japanese number converter](https://japanesenumberconverter.com) - japanese number converter (Kanji - Hiragana - Romanji)
 - [SakeSaySo](https://sakesayso.com/) - A Japanese-English dictionary app featuring SRS flashcards, daily news translations for sentence-based learning, vocabulary inspection, and example sentences. Supports offline use. :iphone: 
 
